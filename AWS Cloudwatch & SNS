@@ -1,0 +1,9 @@
+Cloud Monitoring & Alerting with Amazon CloudWatch and SNS
+
+Overview
+
+This project demonstrates how to implement monitoring and alerting for Amazon EC2 instances using Amazon CloudWatch and Amazon SNS.
+
+The solution monitors EC2 CPU utilization, generates alerts when CPU usage exceeds a defined threshold, and sends email notifications through SNS.
+
+This project simulates a real-world operational monitoring scenario commonly used in production AWS environments.
